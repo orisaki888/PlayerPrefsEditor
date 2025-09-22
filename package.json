@@ -1,0 +1,9 @@
+{
+  "name": "com.slow-step.playerprefs-editor",
+  "version": "1.0.0",
+  "displayName": "PlayerPrefsEditor",
+  "description": "WindowsでPlayerPrefsを表示、編集、削除するためのエディタ拡張",
+  "unity": "2021.3",
+  "author": "orisaki"
+  
+}
