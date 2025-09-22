@@ -2,6 +2,8 @@
 
 Unity Editor 上で PlayerPrefs を「一覧表示・編集・追加・削除」できるシンプルなエディタ拡張です。
 
+<img width="732" height="588" alt="Image" src="https://github.com/user-attachments/assets/46abf7bb-e876-44f1-a349-b009d9dfcfc6" />
+
 - 主に Windows Editor での利用を想定（自動検出は Windows 限定）
 - 既存キーの編集、個別削除、全削除、新規追加に対応
 
